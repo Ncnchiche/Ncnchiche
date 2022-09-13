@@ -4,8 +4,6 @@
 
 I'm a Computer Science student at Florida International University with a huge passion for software development
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently looking for internships and preparing for interviews
 - 🌱 I’m currently learning how to create and use API's
 - 📫 How to reach me: [ncnchiche@hotmail.com](mailto:ncnchiche@hotmail.com)
