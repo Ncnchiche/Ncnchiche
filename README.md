@@ -8,4 +8,4 @@ I'm a Computer Science student at Florida International University with a huge p
 - 🌱 I’m currently learning how to create and use API's
 - 📫 How to reach me: [ncnchiche@hotmail.com](mailto:ncnchiche@hotmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I was 13 when I developed an interest in CS, through the robotics club I was in during my middle school days.
+- ⚡ Fun fact: I was 13 when I developed an interest in CS, through the robotics club I was in during my middle school days
