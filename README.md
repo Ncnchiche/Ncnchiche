@@ -10,6 +10,6 @@ I'm a Computer Science student at Florida International University with a huge p
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was 13 when I developed an interest in CS, through the robotics club I was in during my middle school days
 
-<p align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncnchiche&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<h1 align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncnchiche&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</h1>
