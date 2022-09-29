@@ -9,3 +9,5 @@ I'm a Computer Science student at Florida International University with a huge p
 - 📫 How to reach me: [ncnchiche@hotmail.com](mailto:ncnchiche@hotmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was 13 when I developed an interest in CS, through the robotics club I was in during my middle school days
+
+[![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncnchiche)](https://github.com/anuraghazra/github-readme-stats)
