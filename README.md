@@ -12,4 +12,3 @@ I'm a Computer Science student at Florida International University with a huge p
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncnchiche&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<h1 align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncnchiche&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</h1>
