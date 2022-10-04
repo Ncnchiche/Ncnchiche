@@ -5,7 +5,7 @@
 I'm a Computer Science student at Florida International University with a huge passion for software development. looking to continously deepen my knowledge and become a better programmer.
 
 - 🔭 I’m currently looking for internships and preparing for interviews
-- 🌱 I’m currently learning how to create and use API's
+- 🌱 I’m currently learning Data Structures & Algorithms
 - 📫 How to reach me: [ncnchiche@hotmail.com](mailto:ncnchiche@hotmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was 13 when I developed an interest in CS, through the robotics club I was in during my middle school days
