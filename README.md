@@ -1,4 +1,4 @@
-### Hi! Im Nathan 👨‍💻
+### Hi! Im Nathan 👨‍💻 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-chiche/)
 
@@ -16,5 +16,3 @@ I'm a Computer Science student at Florida International University with a huge p
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncnchiche&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
