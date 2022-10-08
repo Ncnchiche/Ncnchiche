@@ -7,7 +7,7 @@ I'm a Computer Science student at Florida International University with a huge p
 - 🔭 I’m currently looking for internships and preparing for interviews
 - 🌱 I’m currently learning Data Structures & Algorithms
 - 📫 How to reach me: [ncnchiche@hotmail.com](mailto:ncnchiche@hotmail.com)
-- 😄 Pronouns: He/Him
+- 😄 Hobbies: Kite Surfing, soccer, photography
 - ⚡ Fun fact: I was 13 when I developed an interest in CS, through the robotics club I was in during my middle school days
 
 
