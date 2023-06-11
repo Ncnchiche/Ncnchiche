@@ -4,9 +4,8 @@ I'm a Computer Science student at Florida International University with a huge p
 
 - 🔭 I’m currently looking for internships, entry level positions, and preparing for interviews
 - 🌱 I’m currently working on.....
-- 📫 How to reach me: [ncnchiche@hotmail.com](mailto:ncnchiche@hotmail.com)
+- 📫 How to reach me: [nchic006@fiu.edu](mailto:nchic006@fiu.edu)
 - 😄 Hobbies: Photography, Traveling, Soccer, and listening to music
-
 
 Connect with me:
 
