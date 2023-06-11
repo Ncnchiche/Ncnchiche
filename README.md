@@ -3,7 +3,7 @@
 I'm a Computer Science student at Florida International University with a huge passion for software development. looking to continously deepen my knowledge and become a better programmer
 
 - 🔭 I’m currently looking for internships, entry level positions, and preparing for interviews
-- 🌱 I’m currently working on diffrent school projects: Network Project, Machine Learning Project, Software engineering project
+- 🌱 I’m currently working on.....
 - 📫 How to reach me: [ncnchiche@hotmail.com](mailto:ncnchiche@hotmail.com)
 - 😄 Hobbies: Photography, Traveling, Soccer, and listening to music
 
