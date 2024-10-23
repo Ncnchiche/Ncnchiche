@@ -1,11 +1,11 @@
 ### Hi! Im Nathan 👨‍💻 
 
-I'm a Computer Science student at Florida International University with a huge passion for software development. looking to continously deepen my knowledge and become a better programmer
+I'm a New Grad with a BS in Computer Science with a Huge passion for software development, Data Analytics, Information Technology, and more. Looking to continously deepen my knowledge in everything tech related.
 
-- 🔭 I’m currently looking for internships, entry level positions, and preparing for interviews
-- 🌱 I’m currently working on.....
-- 📫 How to reach me: [nchic006@fiu.edu](mailto:nchic006@fiu.edu)
-- 😄 Hobbies: Photography, Traveling, Soccer, and listening to music
+- 🔭 I’m currently enjoying finding different ways in solving coding problems while optimizing them.
+- 🌱 I’m currently working on different IT Certificates (Mostly Hardware, not Software)
+- 📫 How to reach me: [grabber-signers.0a@icloud.com](mailto:grabber-signers.0a@icloud.com)
+- 😄 Hobbies: Photography, Traveling, puzzles, and listening to music
 
 Connect with me:
 
