@@ -5,7 +5,7 @@ I'm a New Grad with a BS in Computer Science with a Huge passion for software de
 - 🔭 I’m currently enjoying finding different ways in solving coding problems while optimizing them.
 - 🌱 I’m currently working on different IT Certificates (Mostly Hardware, not Software)
 - 📫 How to reach me: [grabber-signers.0a@icloud.com](mailto:grabber-signers.0a@icloud.com) 
-     (using hide my email tool, all emails sent will be forwarded to me)
+    -  (using hide my email tool, all emails sent will be forwarded to me)
 - 😄 Hobbies: Photography, Traveling, puzzles, and listening to music
 
 Connect with me:
